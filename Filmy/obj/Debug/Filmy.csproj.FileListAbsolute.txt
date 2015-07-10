@@ -1,0 +1,14 @@
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\bin\Debug\Filmy.exe.config
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\bin\Debug\Filmy.exe
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\bin\Debug\Filmy.pdb
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.csprojResolveAssemblyReference.cache
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.Form1.resources
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.Properties.Resources.resources
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.csproj.GenerateResource.Cache
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.exe
+c:\users\abhayansh\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.pdb
+C:\Users\ABHAYANSH\documents\visual studio 2013\Projects\Filmy\Filmy\bin\Debug\Filmy.exe.manifest
+C:\Users\ABHAYANSH\documents\visual studio 2013\Projects\Filmy\Filmy\bin\Debug\Filmy.application
+C:\Users\ABHAYANSH\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.TrustInfo.xml
+C:\Users\ABHAYANSH\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.exe.manifest
+C:\Users\ABHAYANSH\documents\visual studio 2013\Projects\Filmy\Filmy\obj\Debug\Filmy.application

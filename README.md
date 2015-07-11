@@ -6,5 +6,4 @@ Filmy is a Windows Form Application based on OMDb API and access the data of IMD
 information about the input given by the user.
 
 
-If you wanna see the working setup, it's in the publish folder, you can direct go to setup, 
-if it gives you an error mount the iso included and then install it.
+If you wanna see the working setup, it's in the publish folder, you can direct go to setup.
